@@ -1,0 +1,61 @@
+@media screen and (max-width: 1282px) {
+    .container {width: 900px;}
+    .our-box{margin: 15px;}
+    .para-2{width: 400px;}
+    .s-box{width: 43%;}
+    .ga-img{width: 205px;}
+    .menu-icon{display: none;}
+    
+  }
+  @media screen and (max-width: 950px) {
+      .container {width: 600px;}
+      nav{display: none;}
+      .sicon{display: none;}
+      .buy-1{display: none;}
+      .ban-content h1{font-size: 40px;}
+      .col-div-4{width: 100%;}
+      .img-box{margin-top: 50px;}
+      .col-div-8{width: 100%;}
+      .our-box{margin: 21px auto!important; width: 50%; float: none;}
+      .col-div-6{width: 100%; text-align: center;}
+      .para-2{width: 100%!important;}
+      .col-div-3{width: 50%;}
+    .our-box{margin: 15px;}
+    .para-2{width: 400px;}
+    .s-box{width: 43%;}
+    .ga-img{width: 280px;}
+    header{position: fixed;top: 0;width: 100%;margin-top: 0px;background: var(--stickyheader);z-index: 999999;}
+      .menu-icon{display: block; font-size: 20px; color: var(--white);float: right;margin-top: 14px;}
+      .col3{width: 100%;}
+      nav ul {width: 100%;margin: 0 auto;}
+      nav ul li{float: none;}
+      .ban-content{top: 48%;}
+  }
+  @media screen and (max-width: 670px) {
+      .container {width: 400px;}
+      .banner {height: 80vh;margin-top: -117px;background-size: cover;}
+      .logo{font-size: 20px;}
+      .ban-content h1{font-size: 25px;}
+      .ban-content{top: 48%;left: 35px;}
+      .ban-content p{width: 100%;line-height: 20px;font-size: 14px;}
+      .buy{padding: 5px 25px;font-size: 15px;line-height: 30px;}
+      .section-one{padding: 50px 0px;}
+      .img-box{width: 100%; float: none; margin-left: 0px;}
+      .our-box{width:100%;}
+      .section-two{padding: 50px 0px;}
+      .s-box{width: 100%; margin-top: 50px;}
+      .col-div-3{width: 100%;}
+      .ga-img {width: 100%;}
+      .heading-1{font-size: 20px;}
+  }
+  
+  @media screen and (max-width: 480px) {
+      .container {width: 300px;}
+      .s-box{padding: 0px;}
+      .ga-img{width: 94%;}
+      .heading-1{margin-top: 5px;}
+      .ban-content h1{font-size: 18px;}
+      .ban-content p{line-height: 17px;font-size: 12px;}
+      .col3{width: 90%;}
+      .menu-icon{margin-top: 5px;}
+  }
